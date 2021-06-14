@@ -17,7 +17,7 @@
 }
 
 body {
-    background-image: url("./Starting_Files/images/bg-intro-mobile.png");
+    background-image: url("./images/bg-intro-mobile.png");
     background-color: var(--color-red);
     color: white;
     text-align: center;
@@ -115,7 +115,7 @@ form input {
     width: 100%;
 }
 .error-icon {
-    background:url("Starting_Files/images/icon-error.svg") no-repeat center;
+    background:url("./images/icon-error.svg") no-repeat center;
     width: 60px;
     height: 60px;
     position: absolute;
