@@ -7,6 +7,7 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -27,9 +28,9 @@ Users should be able to:
 
 ![Screenshot](./screenshot.png)
 
-<!--### Links
+### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)-->
+- Live Site URL: [Live](https://signup-form-frontendmentor.netlify.app/)
 
 ## My process
 
